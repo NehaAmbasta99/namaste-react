@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Neha Ambasta",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NehaAmbasta99/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Neha Ambasta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NehaAmbasta99/namaste-react/issues"
+  },
+  "homepage": "https://github.com/NehaAmbasta99/namaste-react#readme",
+  "devDependencies": {
+    "parcel":"^2.9.3"
+  }
+}

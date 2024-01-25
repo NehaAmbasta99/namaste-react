@@ -1,0 +1,18 @@
+//Parcel is a bundler.
+//Dev Dependency : npm install -D '<packagename>'
+//Normal Dependency : npm install '<packagename>'
+//'^' : minor version updated automatically / Safer because smaller stuffs are changed
+//'~' : major version updated automatically / Unsafe because major upgrades are done in 
+      major version change, might break a lot of things.
+//packaage-lock.json : locks the version and keep a log of install.
+//npx : execute the package
+//Parcel uses a file watching algo/watcher/
+
+//Two types of components: 
+class based : OLD
+functional components : NEW
+
+//jsx sanitize the data and perform cors
+//<component /> = <component></component> = {component()}
+
+shimer UI
